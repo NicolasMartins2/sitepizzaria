@@ -1,13 +1,13 @@
 <?php 
 include_once "templades/header.php";
 ?>
-<!--Faremos o formulario e o baner -->
+<!--Faremos o formulario e o baner --> 658
 <div id="main-banner">
     <h1>Faça seu Pedido</h1>
     <!--Aqui irá a foto -->
 </div>
 <!--Container principal -->
-<div id="main-container">
+<div id="main-container"> 
     <!--este container tem as classes de botstrap-->
     <div class="container">
         <div class="row">
